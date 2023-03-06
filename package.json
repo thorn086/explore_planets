@@ -1,0 +1,25 @@
+{
+  "name": "explore_planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorn086/explore_planets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorn086/explore_planets/issues"
+  },
+  "homepage": "https://github.com/thorn086/explore_planets#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}
